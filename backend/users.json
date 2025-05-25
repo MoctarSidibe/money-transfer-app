@@ -1,0 +1,94 @@
+[
+  {
+    "name": "John",
+    "surname": "Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "address": "0xa0Ee7A142d267C1f36714E4a8F75612F20a79720",
+    "privateKey": "0x...mockprivatekey1...",
+    "country": "France",
+    "receiveMethod": "Visa",
+    "receiveDetails": "1234-5678-9012-3456"
+  },
+  {
+    "name": "Amina",
+    "surname": "Mbaye",
+    "email": "amina.mbaye@example.com",
+    "password": "password123",
+    "address": "0xb1Ff8B143e267D2g46825F5a9G86723G31b99821",
+    "privateKey": "0x...mockprivatekey2...",
+    "country": "Gabon",
+    "receiveMethod": "Airtel Money",
+    "receiveDetails": "+24112345678"
+  },
+  {
+    "name": "Sipho",
+    "surname": "Ngwenya",
+    "email": "sipho.ngwenya@example.com",
+    "password": "password123",
+    "address": "0xc2Gg9C254f368E3h57936G6b0H97834H42c00932",
+    "privateKey": "0x...mockprivatekey3...",
+    "country": "South Africa",
+    "receiveMethod": "MTN Mobile Money",
+    "receiveDetails": "+27791234567"
+  },
+  {
+    "name": "Jane",
+    "surname": "Smith",
+    "email": "jane.smith@example.com",
+    "password": "password123",
+    "address": "0xd3Hg9D355g368E4i58047H7b1I98945I53d01043",
+    "privateKey": "0x...mockprivatekey4...",
+    "country": "USA",
+    "receiveMethod": "PayPal",
+    "receiveDetails": "jane.smith.paypal@example.com"
+  },
+  {
+    "name": "Admin",
+    "surname": "User",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "address": "0xe4Ih0E466h479F5j58158I8c2J99056J64e02154",
+    "privateKey": "0x...mockprivatekey5...",
+    "country": "USA",
+    "receiveMethod": "",
+    "receiveDetails": "",
+    "role": "admin"
+  },
+  {
+    "name": "mo",
+    "surname": "syde",
+    "email": "test1@example.com",
+    "password": "123",
+    "address": "0xD490558c1d8C2E318A3e154674D0Fec107539dB1",
+    "privateKey": "0xe4ad2c50c76957ee82f1e63c40c8823b0852ecb7931266d17acbf20c029d3079",
+    "country": "Gabon",
+    "receiveMethod": "Airtel Money",
+    "receiveDetails": "+24162951317",
+    "role": "user"
+  },
+  {
+    "name": "Roro",
+    "surname": "ng",
+    "email": "test2@example.com",
+    "password": "123",
+    "address": "0x1C8262c1baCc7578c74b34E480B6BA727Ea33337",
+    "privateKey": "0x848c6f2e8996f5751aceacb43821f1d69dc38edfc9d9c5207d68cf82ec32d91a",
+    "country": "France",
+    "receiveMethod": "PayPal",
+    "receiveDetails": "test2@example.com",
+    "role": "user"
+  },
+  {
+    "name": "elon",
+    "surname": "musk",
+    "email": "test3@example.com",
+    "password": "123",
+    "address": "0x881D0356d60955fa40ea0FEEA387714CB82515DF",
+    "privateKey": "0x0bd40c8d4f7d58113cf3096d4f7b000d0bcc55f9e149fc14887ce263aa3eba3a",
+    "country": "USA",
+    "receiveMethod": "",
+    "receiveDetails": "",
+    "role": "user"
+  }
+]

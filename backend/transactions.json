@@ -1,0 +1,22 @@
+[
+  {
+    "amount": "10",
+    "recipient": "0xD490558c1d8C2E318A3e154674D0Fec107539dB1",
+    "localAmount": 6000,
+    "localCurrency": "XAF",
+    "sendMethod": "MasterCard",
+    "receiveMethod": "Airtel Money",
+    "timestamp": "2025-05-15T14:59:27.015Z",
+    "txHash": "0x5223cf2d4ec9b84ae1547f967886efb3279034a0583e3c798d26b91764796609"
+  },
+  {
+    "amount": "100",
+    "recipient": "0xD490558c1d8C2E318A3e154674D0Fec107539dB1",
+    "localAmount": 60000,
+    "localCurrency": "XAF",
+    "sendMethod": "Visa",
+    "receiveMethod": "Airtel Money",
+    "timestamp": "2025-05-15T15:11:14.358Z",
+    "txHash": "0x03686eceef60d1403edcd6ca7d3b86aad61c006e48d0ee898e0e3cab78fe6fda"
+  }
+]
